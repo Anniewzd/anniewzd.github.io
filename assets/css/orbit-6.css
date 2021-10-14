@@ -225,7 +225,7 @@ p {
   margin-bottom: 2px;
 }
 
-.main-wrapper .job-title {
+.main-wrapper .school-title {
   color: #3F4650;
   font-size: 16px;
   margin-top: 0;
@@ -240,7 +240,7 @@ p {
   color: #97AAC3;
 }
 
-.main-wrapper .company {
+.main-wrapper .major {
   margin-bottom: 10px;
   color: #97AAC3;
 }
